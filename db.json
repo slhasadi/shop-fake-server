@@ -1,0 +1,31 @@
+{
+  "users":[
+    {"userId":1, "userName":"Amin", "Password": "123456", "email":"amin@email.com"},
+    {"userId":2, "userName":"Yasi", "Password": "123456", "email":"yasi@email.com"},
+    {"userId":3, "userName":"Majid", "Password": "123456", "email":"majid@email.com"}  
+  ],
+  "categories": [
+    { "id": 1, "title": "Rock" },
+    { "id": 2, "title": "Pop" },
+    { "id": 3, "title": "Hip Hop" }
+  ],
+  "products": [
+    { "id": 1, "title": "Anathema", "catId": 1, "price":87 },
+    { "id": 2, "title": "Halsey", "catId": 2, "price":65 },
+    { "id": 3, "title": "Madonna", "catId": 2, "price":88 },
+    { "id": 4, "title": "Metalica", "catId": 1, "price":27 },
+    { "id": 5, "title": "Jastin Bieber", "catId": 2, "price":33 },
+    { "id": 6, "title": "Rihanna", "catId": 2, "price":81 },
+    { "id": 7, "title": "Maroon 5", "catId": 2, "price":64 },
+    { "id": 8, "title": "Eminem", "catId": 3, "price":82 },
+    { "id": 9, "title": "50 Cent", "catId": 3, "price":54 },
+    { "id": 10, "title": "Usher", "catId": 2, "price":35 },
+    { "id": 11, "title": "shakira", "catId": 2, "price":52 },
+    { "id": 12, "title": "Nirvana", "catId": 1, "price":84 },
+    { "id": 13, "title": "Snoop Dog", "catId": 3, "price":72 },
+    { "id": 14, "title": "Zack Wilde", "catId": 1, "price":99 },
+    { "id": 15, "title": "Enrique", "catId": 2, "price":95 },
+    { "id": 16, "title": "Back Street Boys", "catId": 2, "price":48 },
+    { "id": 17, "title": "Akon", "catId": 3, "price":42 }
+  ]
+}
