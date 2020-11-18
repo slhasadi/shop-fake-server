@@ -11,7 +11,7 @@
   ],
   "products": [
     { "id": 1, "title": "Anathema", "catId": 1, "price":87, "image":"https://ggcompany.ge/upload/eshop/product/p1.jpg" },
-    { "id": 2, "title": "Halsey", "catId": 2, "price":65, "image":["https://ggcompany.ge/upload/eshop/product/p2.png","https://ggcompany.ge/upload/eshop/product/p11.jpg"] },
+    { "id": 2, "title": "Halsey", "catId": 2, "price":65, "image":"https://ggcompany.ge/upload/eshop/product/p2.png" },
     { "id": 3, "title": "Madonna", "catId": 2, "price":88, "image":"https://ggcompany.ge/upload/eshop/product/p3.jpg" },
     { "id": 4, "title": "Metalica", "catId": 1, "price":27, "image":"https://ggcompany.ge/upload/eshop/product/p4.jpg" },
     { "id": 5, "title": "Jastin Bieber", "catId": 2, "price":33, "image":"https://ggcompany.ge/upload/eshop/product/p5.jpg" },
