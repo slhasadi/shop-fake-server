@@ -1,8 +1,8 @@
 {
   "users":[
-    {"userId":1, "userName":"Amin", "Password": "123456", "email":"amin@email.com"},
-    {"userId":2, "userName":"Yasi", "Password": "123456", "email":"yasi@email.com"},
-    {"userId":3, "userName":"Majid", "Password": "123456", "email":"majid@email.com"}  
+    {"userId":1, "userName":"Amin", "Password": "$2y$12$wZORUITTjkHmqKqE6h95EeUY4L56xE0W9E1hWxfxfrXv8YCF./cXS ", "email":"amin@email.com"},
+    {"userId":2, "userName":"Yasi", "Password": "$2y$12$wZORUITTjkHmqKqE6h95EeUY4L56xE0W9E1hWxfxfrXv8YCF./cXS ", "email":"yasi@email.com"},
+    {"userId":3, "userName":"Majid", "Password": "$2y$12$wZORUITTjkHmqKqE6h95EeUY4L56xE0W9E1hWxfxfrXv8YCF./cXS ", "email":"majid@email.com"}  
   ],
   "categories": [
     { "id": 1, "title": "Rock", "image":"https://ggcompany.ge/upload/eshop/category/c1.jpg" },
